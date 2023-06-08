@@ -1,4 +1,4 @@
-# SQL-Data-Analysis
+# SQL-Data-Analysis and Visualization Projects
 ### Built with
 
 + SQL Languages
